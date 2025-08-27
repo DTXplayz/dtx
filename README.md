@@ -7,7 +7,7 @@
  
 ## 🚀 About Me
 - 🔭 Currently working on: AI-based automation tools & portfolio websites  
-- 🎥 I create gaming content on [YouTube](https://youtube.com/@DTXPlayz) & stream on [Twitch](https://twitch.tv/dtxplayz007)  
+- 🎥 I create gaming content on [YouTube]([(https://www.youtube.com/@DTXgaming007)]) & stream on [Twitch](https://twitch.tv/dtxplayz007)  
 - 🌱 Learning: React, Python ML, Web Development  
 - ⚡ Fun fact: I mix coding + gaming in creative ways  
 
